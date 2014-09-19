@@ -1,5 +1,5 @@
 /*
- * dup2.c              By averno.
+ * dup2.c              By TRICKY.
  * avernopolis#gmail.com | sed -e 's/#/@/'
  *
  */
